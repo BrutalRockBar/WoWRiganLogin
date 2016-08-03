@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.609,=D:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,D:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Unit1.h=C:\WoWRiganLogin\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,D:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Project1.cbproj=C:\WoWRiganLogin\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,D:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Unit1.cpp=C:\WoWRiganLogin\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,=D:\WoWRiganLogin(project)\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,=C:\WoWRiganLogin\Win32\Debug\psapi.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.406,C:\WoWRiganLogin\Win32\Debug\psapi.lib=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=D:\WoWRiganLogin\bass.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,D:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Project1PCH1.h=C:\WoWRiganLogin\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,=D:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,=D:\WoWRiganLogin\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.421,=D:\Program Files\Embarcadero\RAD Studio\10.0\lib\win32\release\psdk\psapi.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,D:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Unit1.dfm=C:\WoWRiganLogin\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,=C:\WoWRiganLogin\psapi.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,D:\Program Files\Embarcadero\RAD Studio\10.0\lib\win32\release\psdk\psapi.lib=</Transaction>
+  </Transactions>
+</BorlandProject>
